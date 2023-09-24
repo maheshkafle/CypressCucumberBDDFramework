@@ -1,0 +1,9 @@
+{   
+    "url": "https://www.propertyfinder.bh/",
+    "propertyType": "Villa",
+    "maxPrice" : "300000",
+    "httpsMethod" : "GET",
+    "endpoint" : "https://www.propertyfinder.bh/en/search?c=1&pt=300000&fu=0&rp=m&ob=mr",
+    "successGETAPIStatusCode" : 200,
+    "expectedPageCount": "1,716"
+}
